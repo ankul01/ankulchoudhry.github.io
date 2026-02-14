@@ -2,10 +2,11 @@ baseURL = "https://ankul01.github.io/profile/"
 languageCode = "en-us"
 title = "Ankul Choudhry"
 theme = "PaperMod"
+publishDir = "docs"
+
 [pagination]
   pagerSize = 10
 
-publishDir = "docs"
 relativeURLs = true
 canonifyURLs = false
 
