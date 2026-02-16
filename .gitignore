@@ -2,6 +2,9 @@
 public/
 resources/_gen/
 
+# Source reference documents (not part of the website)
+tech-blogs-supprted-content/
+
 # OS files
 .DS_Store
 Thumbs.db

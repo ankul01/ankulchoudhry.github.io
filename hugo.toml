@@ -38,12 +38,16 @@ buildExpired = false
   hideSummary = false
   showtoc = true
 
+  mainSections = ["posts"]
+
   [params.homeInfoParams]
     Title = "Hi, I'm Ankul 👋"
     Content = """
 Senior Engineering Manager with 14+ years of experience building and scaling backend and platform systems in fintech, insurance, and e-commerce.
 
 Passionate about leading teams that build **mission-critical, high-throughput systems** where reliability, compliance, and customer impact matter. I enjoy operating at the intersection of engineering, product, and business — turning complex problems into scalable, durable platforms.
+
+I write about system design, platform architecture, and engineering leadership. My latest post dives into [**Designing an Embedded Insurance Platform**](/profile/posts/tech-blogs/embedded-insurance/) — a comprehensive architecture blueprint covering product engines, issuance pipelines, double-entry ledgering, and regulatory reporting. Built for EMs and Staff Engineers working in insurtech and fintech.
 """
 
   [[params.socialIcons]]
