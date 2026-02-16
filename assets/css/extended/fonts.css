@@ -1,15 +1,50 @@
 /* ==========================================================================
-   Custom Styles
-   Uses PaperMod's default system font stack (same as domainforvijay.in)
+   Typography — Roboto Mono (matching domainforvijay.in)
    ========================================================================== */
 
-/* Footer */
+body {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.7;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 700;
+}
+
+h3, h4, h5, h6 {
+    font-weight: 500;
+}
+
+.logo a {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 500;
+}
+
+#menu a {
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 400;
+}
+
+.post-meta {
+    font-weight: 300;
+}
+
+code, pre, .highlight {
+    font-family: 'Roboto Mono', monospace;
+}
+
+/* ==========================================================================
+   Footer
+   ========================================================================== */
+
 .footer {
     font-size: 14px;
     text-align: center;
 }
 
-/* Footer social icons */
 .footer-social-icons {
     display: flex;
     justify-content: center;
