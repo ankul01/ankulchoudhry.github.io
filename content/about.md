@@ -1,13 +1,13 @@
 ---
-title: "About"
+title: "About — Ankul Choudhry"
 layout: "single"
 url: "/about/"
-summary: "About Ankul Choudhry"
+summary: "Engineering Leader | Platforms, Distributed Systems & Partner Integrations | Embedded Insurance | Ex-Snapdeal | NIT Trichy"
+description: "🚀 Engineering Leader | Platforms, Distributed Systems & Partner Integrations | Embedded Insurance | Ex-Snapdeal | NIT Trichy"
 ShowToc: false
 ShowBreadCrumbs: false
+hidemeta: true
 ---
-
-Engineering Leader | Bangalore, India
 
 Engineering leader with **14+ years of experience** building and scaling low-latency, high-throughput platforms in fintech, insurance, and e-commerce. I lead organizations of 15+ engineers, owning mission-critical backend systems end-to-end — from architecture and design through production operations.
 
